@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tushar Debnath
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
 
 Hi, I’m Tushar Debnath, a passionate Diploma in Computer Science and Technology student with a strong love for web development and problem-solving.
 
